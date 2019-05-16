@@ -4,7 +4,8 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/Users/cuijinyu/.node-gyp/12.2.0/include/**"
+                "/Users/cuijinyu/.node-gyp/12.2.0/include/**",
+                "/usr/local/lib/node_modules/nan"
             ],
             "defines": [],
             "macFrameworkPath": [],
